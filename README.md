@@ -1,5 +1,7 @@
 # Bank Statement Intelligence Platform
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://bank-pdf-to-json.streamlit.app)
+
 A Python application that converts bank statement PDFs into structured, machine-readable JSON. Built as an internship project demonstrating PDF parsing, data extraction, and web application development with Streamlit.
 
 ---
@@ -103,6 +105,11 @@ Statements where raw extracted text includes `DR` or `CR` on each transaction li
 The master function `parse_transactions()` runs all applicable strategies and returns the result with the highest transaction count.
 
 ---
+## Live Demo
+
+🔗 **Application URL:** https://bank-pdf-to-json.streamlit.app
+
+Try the deployed application directly in your browser without local installation.
 
 ## Installation
 
