@@ -109,8 +109,8 @@ The master function `parse_transactions()` runs all applicable strategies and re
 **Requirements:** Python 3.11+
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bank-statement-platform.git
-cd bank-statement-platform
+git clone https://github.com/harshkumary07-cmd/bank-statement-intelligence-platform.git
+cd bank-statement-intelligence-platform
 
 pip install -r requirements.txt
 ```
@@ -198,4 +198,4 @@ All 34 tests should pass.
 
 ---
 
-*Internship Project · 2024–2025*
+*Internship Project · 2025–2026*
